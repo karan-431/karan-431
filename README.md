@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karan-431
-- 👀 I’m interested in ...
+- 👀 I’m interested in Machine learning, Datasciece,
 - 🌱 I’m currently learning ...
   
 
