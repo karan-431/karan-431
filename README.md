@@ -79,14 +79,14 @@
 ---
 
 ## 📫 Let's Connect!  
-- **Email**: [your-email@example.com](mailto:karankaran04600@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)    
+- **Email**: [karan's mail](mailto:karankaran04600@gmail.com)  
+- **LinkedIn**: [Karan's LinkedIn Profile](https://www.linkedin.com/in/your-profile)    
 
 ---
 
 ⭐ **Feel free to explore my repositories and reach out for collaborations or discussions on exciting projects!**
 )  
-- **GitHub**: [Karan's GitHub](https://github.com/your-github-username)  
+- **GitHub**: [Karan's GitHub](https://github.com/karan-431)  
 
 ---
 
