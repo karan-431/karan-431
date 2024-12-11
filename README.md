@@ -38,8 +38,8 @@
 ---
 
 ## 📫 Let's Connect!  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](# 👋 Hi, I'm Karan!
+- **Email**: [karankaran04600@gmail.com](mailto:karankaran04600@dgmail.com)  
+- **LinkedIn**: [Karan srulivel](# 👋 Hi, I'm Karan!)
 
 🎓 **B.Tech in Artificial Intelligence and Data Science**  
 📍 **NSCET** (Nadar Saraswathi College of Engineering and Technology)  
