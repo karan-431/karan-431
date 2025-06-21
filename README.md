@@ -80,7 +80,7 @@
 
 ## 📫 Let's Connect!  
 - **Email**: [karan's mail](mailto:karankaran04600@gmail.com)  
-- **LinkedIn**: [Karan's LinkedIn Profile](https://www.linkedin.com/in/your-profile)    
+- **LinkedIn**: [Karan's LinkedIn Profile](https://www.linkedin.com/in/karan-surulivel-063163261/)    
 
 ---
 
