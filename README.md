@@ -1,212 +1,174 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Karan%20S&fontSize=58&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20LLM%20Builder&descAlignY=60&animation=fadeIn" width="100%" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Karan%20S&fontSize=60&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20LLM%20Builder&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Building+AI-Native+Applications+🤖;FastAPI+•+LangChain+•+CrewAI+•+Ollama;Turning+Ideas+into+Intelligent+Systems+🚀" />
+</div>
 
-<br><br>
+<!-- Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+AI-Native+Applications+%F0%9F%A4%96;FastAPI+%7C+LangChain+%7C+CrewAI+%7C+Ollama;Turning+Ideas+into+Intelligent+Systems+%F0%9F%9A%80" />
+</div>
 
-<a href="https://linkedin.com/in/karan-surulivel-063163261">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="mailto:karankaran04600@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/karan-431">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=karan-431&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS"/>
-
+<!-- Social Badges -->
+<div align="center">
+  <a href="https://linkedin.com/in/karan-surulivel-063163261">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:karankaran04600@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/karan-431">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=karan-431&style=for-the-badge&color=6AD3F7&label=PROFILE+VIEWS"/>
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🧠 About Me
 
 ```python
 class KaranS:
-
     def __init__(self):
-        self.name = "Karan S"
-        self.role = "AI Engineer"
-        self.degree = "B.Tech - Artificial Intelligence & Data Science"
-        self.college = "NSCET, Theni"
-        self.cgpa = 7.52
-        self.location = "Tamil Nadu, India 🇮🇳"
+        self.name       = "Karan S"
+        self.degree     = "B.Tech — AI & Data Science (2022–2026)"
+        self.college    = "NSCET, Theni, TN"
+        self.cgpa       = 7.52
+        self.location   = "Tamil Nadu, India 🇮🇳"
 
     @property
     def current_focus(self):
         return [
-            "LLM & VLM Applications",
-            "Multi-Agent AI Systems",
-            "FastAPI Backend Development",
-            "Retrieval-Augmented Generation (RAG)",
-            "Generative AI"
+            "Building multi-model AI pipelines with Ollama + LangChain",
+            "Developing LLM-powered FastAPI backends",
+            "Exploring Vision Language Models (VLMs) & RAG systems",
         ]
 
     @property
     def fun_fact(self):
-        return "I build AI systems that evaluate handwritten answer sheets automatically 🤖"
+        return "I build AI that grades exams so professors don't have to 📝🤖"
 ```
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-## 🤖 Artificial Intelligence & Machine Learning
-
+### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
-
-## ⚙️ Backend Development
-
+### ⚙️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
-
-## 🗄️ Databases
-
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 
----
-
-## 🛠 Tools
-
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎓 AI Exam Grading System
-
-**Tech Stack**
-
-`FastAPI` • `Ollama` • `Qwen2.5-VL` • `Llama 3` • `MySQL`
-
-### Features
-
-- Automated handwritten answer evaluation
-- OCR using Qwen2.5-VL
-- AI-powered marking
-- Confidence score generation
-- Dynamic mark allocation
-- REST API using FastAPI
+### 🎓 AI Exam Grading System · `FastAPI` `Ollama` `Qwen2.5-VL` `Llama3` `MySQL`
+> A multi-model AI pipeline that automates handwritten exam evaluation end-to-end.  
+> Uses **Qwen2.5-VL** for OCR on handwritten answers → **Llama3** for structured marking & confidence scoring → scales dynamically to any max marks → deployed as a **FastAPI** service with persistent **MySQL** storage.
 
 ---
 
-## 🌍 AI Multilingual Video Translator
-
-**Tech Stack**
-
-`FastAPI` • `Faster-Whisper` • `gTTS` • `NLP`
-
-### Features
-
-- Speech-to-text
-- Subtitle generation
-- Language translation
-- Voice dubbing
-- Multi-language support
+### 🌐 AI Multilingual Video Translator · `FastAPI` `Faster-Whisper` `gTTS` `NLP`
+> Breaks the language barrier for video content.  
+> Pipeline: **speech-to-text transcription** → subtitle generation → language translation → **automated audio dubbing** — making videos accessible across languages.
 
 ---
 
-## 🩸 Blood Group Finder
-
-**Tech Stack**
-
-`CNN` • `TensorFlow` • `Streamlit`
-
-### Features
-
-- Trained on 5,675 microscopic blood images
-- Real-time prediction
-- Confidence score visualization
+### 🩸 Blood Group Finder · `CNN` `Deep Learning` `Streamlit`
+> CNN trained on **5,675 labeled microscopic blood sample images** (A, B, AB, O).  
+> Deployed via **Streamlit** with real-time image upload and confidence score display.
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-| Company | Role | Duration |
-|----------|------|----------|
-| **Techmango Technology Services Pvt. Ltd.** | Data Science Intern | Dec 2025 – Mar 2026 |
-| **TM Innovations** | Python & FastAPI Intern | Sep 2024 |
-| **Infosys Springboard 6.0** | AI Virtual Intern | Dec 2025 – Feb 2026 |
+```
+🏢  Techmango Technology Services Pvt. Ltd.          Dec 2025 – Mar 2026
+    Data Science Intern · Madurai
+    ↳ LLMs, VLMs, FastAPI, LangChain, CrewAI, ChromaDB
+    ↳ Tokenization, context windows, temperature tuning
+
+🏢  TM Innovations                                    Sep 2024 (1 month)
+    Python & FastAPI Intern · Theni
+    ↳ RESTful APIs · MySQL integration · JWT authentication
+
+🏢  Infosys Springboard Virtual Internship 6.0        Dec 2025 – Feb 2026
+    ↳ Smart Energy Monitoring & Predictive Analytics System
+```
 
 ---
 
-# 🏆 Hackathons
+## 🏆 Hackathon Highlights
 
 | Event | Project | Year |
 |-------|---------|------|
-| PSG iTechFest | AI Adaptive E-Learning Platform | 2023 |
-| ESEC Hackathon | AR Simulation for Mechanical Components | 2023 |
-| Dr. Kalam Awards | Crop Disease Detection using CNN | 2023 |
-| Engineer NITK | OCR + NLP Smart Documentation | 2024 |
+| PSG iTechFest | AI-powered adaptive e-learning platform | 2023 |
+| Erode Sengunthar Engineering College | AR Simulation for 3D mechanical components | 2023 |
+| Dr. Kalam Awards | CNN-based crop leaf disease detection | 2023 |
+| Engineer NITK | OCR + NLP Smart Documentation System | 2024 |
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-- 🐍 Python Programming — GUVI (IIT Madras)
-- 🤖 Artificial Intelligence Primer — Infosys Springboard
+- 🐍 **Python Programming** — Guvi (IITM Verified)
+- 🤖 **Artificial Intelligence Primer** — Infosys Springboard
 
 ---
 
-# 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karan-431&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-431&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karan-431&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-431&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=karan-431&theme=tokyonight&hide_border=true"/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karan-431&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 ---
 
-# 🏅 Achievements
+## 🏅 Achievements & Activities
 
-- 🎙 Organized NSCET Symposium (2023)
-- 🤝 AIM Student Association Member
-- 🌱 National Service Scheme (NSS)
-- 🏆 Multiple National-Level Hackathon Participant
+- 🎙️ Organized the **NSCET Symposium** — June 2023
+- 🤝 **AIM Student Association** Member (2023–2025)
+- 🌱 **National Service Scheme (NSS)** Active Member
 
 ---
 
 <div align="center">
 
-## 📫 Let's Connect
+### 💬 Let's build something intelligent together!
 
 <a href="mailto:karankaran04600@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/karan-surulivel-063163261">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
 
 </div>
